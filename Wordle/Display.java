@@ -9,7 +9,6 @@ import java.util.*;
 /**
  * Title      : Display.java
  * Description: This class contains definition of components of the GUI.
- * Copyright  : Copyright (c) 2022-2022
  * @author      Zhuoda Liu
  * @version     3.9
  */
