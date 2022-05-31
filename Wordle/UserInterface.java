@@ -7,7 +7,6 @@ import javax.swing.JLabel;
 /**
  * Title      : UserInterface.java
  * Description: This class contains definition of user interface.
- * Copyright  : Copyright (c) 2022-2022
  * @author      Zhuoda Liu
  * @version     2.5
  */
