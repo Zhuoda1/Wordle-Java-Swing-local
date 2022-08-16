@@ -4,11 +4,11 @@ A reproduction of worlde - a famous online game
 
 To run the game, you can type down the following in the command line:
 
-  >>javac Display.java
+ - javac Display.java
 
-  >>javac UserInterface.java
+ - javac UserInterface.java
 
-  >>java UserInterface
+ - java UserInterface
 
 Now you are in the game!
 
